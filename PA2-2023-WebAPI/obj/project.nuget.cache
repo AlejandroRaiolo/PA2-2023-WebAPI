@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcU4VCbWm3Ls0Pj9hm9bqlQVd1Npb4tBrITCgPGa0M8iFlWsVY0w7dwXsvXC/oDqB9Dy3nms7s9UHNmJzI7JMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\araiolo\\source\\repos\\PA2-2023-WebAPI\\PA2-2023-WebAPI\\PA2-2023-WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\araiolo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\araiolo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\araiolo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\araiolo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\araiolo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\araiolo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
